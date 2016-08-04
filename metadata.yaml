@@ -1,0 +1,33 @@
+_repo: In-the-Sweet-Dry-and-Dry_4249
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Morley, Christopher
+    alias: Morley, Christopher Darlington
+    birthdate: 1890
+    deathdate: 1957
+    gutenberg_agent_id: '109'
+    url: http://www.gutenberg.org/2009/agents/109
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
+  - agent_name: Haley, Bart
+    alias: Haley, Bartley
+    birthdate: 1876
+    gutenberg_agent_id: '1416'
+    url: http://www.gutenberg.org/2009/agents/1416
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Satire'
+- !lcsh 'Prohibition -- Fiction'
+- !lcsh 'Humorous stories'
+- GITenberg
+title: In the Sweet Dry and Dry
+url: http://www.gutenberg.org/ebooks/4249
